@@ -1,16 +1,7 @@
 # day18
 
-A new Flutter project.
+A new Flutter project of pageview.
 
 ## Getting Started
+![day_18](https://user-images.githubusercontent.com/65438013/203071894-2c7527cb-a264-496a-a9cb-5029f2690a41.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
